@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Antonio
+Author: Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/antonio
+
+Font: Abhaya Libre
+Author: Mooniak
+Url: https://www.fontsquirrel.com/fonts/abhaya-libre
